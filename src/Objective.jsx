@@ -48,7 +48,7 @@ const Objective = () => {
           "Docker Image Build: - Use Dockerfile to define the build image for your code.",
           "Docker Image Push: - Tags the built Docker image, logs in to Docker Hub using credentials, and pushes the image to the repository.",
           "Docker Container Deploy: - Deploys the containerized application using Docker Compose, taking down existing containers and bringing up the new ones in detached mode.",
-          "Webhook Trigger: - est the webhook by changing your Git repository. - Ensure the Jenkins pipeline is triggered automatically.",
+          "Webhook Trigger: - Test the webhook by changing your Git repository. - Ensure the Jenkins pipeline is triggered automatically.",
           "Pipeline Validation: - Validate the entire pipeline by changing your code and observing the pipeline stages.",
           "Security Considerations: - Ensure your Docker hub credentials in Jenkins are securely managed. - Implement appropriate security measures for your Docker hub.",
         ]}
