@@ -40,6 +40,11 @@
   /* height: 100%; */
 }
 
+.underline {
+  text-decoration: underline;
+  font-weight: 500;
+}
+
 @media (max-width: 767px) {
   /* .codeblock .imagecontainer {
     height: 180px;
